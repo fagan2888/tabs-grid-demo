@@ -4,7 +4,7 @@ tabs-grid-demo
 An example usage of Easytabs and SlickGrid javascript libraries from gopherjs
 
 
-*How to run ?
+##How to run ?
 
   $ go build server.go
   $ ./server --port 1234 --root .
